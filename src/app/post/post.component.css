@@ -1,0 +1,22 @@
+div {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: lightgray;
+    padding: 15px;
+    margin: 10px;
+    border: solid rgb(167, 165, 165) 1px;
+    border-radius: 10px;
+    width: 40vw;
+    align-items: center;
+}
+
+h2 {
+    margin: 0;
+    color: rgb(6, 49, 129);
+    text-align: center;
+}
+
+a {
+    font-size: small;
+}

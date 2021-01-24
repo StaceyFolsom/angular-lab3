@@ -1,6 +1,6 @@
-app-list {
+div {
     display: flex;
     flex-direction: row;
-    width: 100vw;
+    flex-wrap: wrap;
     justify-content: stretch;
 }
